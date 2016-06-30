@@ -2,6 +2,7 @@
 Meal Planner
 
 This project aims to provide the user with a meal plan and grocery list for the week based on the following:
+
   Budget
   Meals per day
   Desired caloric intake
